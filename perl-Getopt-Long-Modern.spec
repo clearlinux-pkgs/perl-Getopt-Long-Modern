@@ -4,7 +4,7 @@
 #
 Name     : perl-Getopt-Long-Modern
 Version  : 1.000
-Release  : 1
+Release  : 2
 URL      : https://cpan.metacpan.org/authors/id/D/DB/DBOOK/Getopt-Long-Modern-1.000.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DB/DBOOK/Getopt-Long-Modern-1.000.tar.gz
 Summary  : 'Use Getopt::Long with modern defaults'
@@ -103,4 +103,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/Getopt/Long/Modern.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Getopt/Long/Modern.pm
