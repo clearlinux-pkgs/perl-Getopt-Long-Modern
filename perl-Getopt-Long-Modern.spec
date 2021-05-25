@@ -4,7 +4,7 @@
 #
 Name     : perl-Getopt-Long-Modern
 Version  : 1.000
-Release  : 7
+Release  : 8
 URL      : https://cpan.metacpan.org/authors/id/D/DB/DBOOK/Getopt-Long-Modern-1.000.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DB/DBOOK/Getopt-Long-Modern-1.000.tar.gz
 Summary  : 'Use Getopt::Long with modern defaults'
